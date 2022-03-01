@@ -5,13 +5,13 @@ Test for NoFrixion Antonio de la Cruz
 https://github.com/Acruval/NoFrixionTask
 
 ## Index
-- [Task to do]
-- [Notes]
-- [Architecture]
-- [Possible Improvements]
-- [Other technical notes]
-- [What was the default Console App]
-- [No Nullable Types but Contract]
+- [Task to do](#Task-to-do)
+- [Notes](#Notes)
+- [Architecture](#Architecture)
+- [Possible Improvements](#Possible-Improvements)
+- [Other technical notes](#Other-technical-notes)
+- [What was the default Console App](#What-was-the-default-Console-App)
+- [No Nullable Types but Contracts](#No-Nullable-Types-but-Contracts)
 
 ## Task to do
 
@@ -73,7 +73,7 @@ Write a console application in C# to get the latest Bitcoin price from https://w
   Console.WriteLine("Hello, World!");
 ```
 
-## No Nullable Types but Contract
+## No Nullable Types but Contracts
 There is a new feature in NET6.0 enable by default. 
 ```xml
     <Nullable>disable</Nullable>
